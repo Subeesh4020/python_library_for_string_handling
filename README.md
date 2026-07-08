@@ -1,9 +1,13 @@
 README.txt
-# python library demo (string handling)
+# Python library demo (string handling)
 
 Introduction:- Python package to manage sentence / paragraph
 
-Usage:- use pip to install wordslistpack pip install wordslistpack after installation you are ready to use the functions in this package.
+Usage:- use pip to install wordslistpack, 
+        
+        pip install wordslistpack 
+        
+        after installation, you are ready to use the functions in this package.
 
 e.g.,
 
